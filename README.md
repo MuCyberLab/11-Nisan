@@ -1,0 +1,1 @@
+Mu Cyber ekibinin 11 Nisan 2018 tarihinde yapmış olduğu Capture The Flag yarışmasının sorularından biridir.
